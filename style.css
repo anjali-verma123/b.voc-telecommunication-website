@@ -122,9 +122,10 @@
 }
 .flex-container2 {
     /* position: relative; */
-    overflow: auto;
+    /* overflow: auto;
     overflow-x: auto;
     overflow-y: auto;
+    width: 100%; */
     /* background-color: lightcoral; */
 }
 
